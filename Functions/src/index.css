@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html , body{
+    height: 100%;
+    width: 100%;
+    color:white ;
+}
+body{
+  background-color: black;
+}
+input{
+  margin: 10px;
+  padding: 10px 10px;
+}
+.box{
+  height: 200px;
+  width: 200px;
+  background-color: aqua;
+}
+.page1{
+  height: 100vh;
+  width: 100vh;
+  background-color: #111;
+}
+.page2{
+  height: 100vh;
+  width: 100vh;
+  background-color: #222;
+}
+.page3{
+  height: 100vh;
+  width: 100vh;
+  background-color: #333;
+}
+input,button{
+  margin: 20px;
+  padding: 10px 20px;
+  
+}
+h1{
+  background-color: rgb(69, 69, 69);
+  width: fit-content;
+  padding: 70px;
+  margin: 20px;
+  font-size: 70px;
+}
+
+
